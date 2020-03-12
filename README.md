@@ -1,0 +1,2 @@
+# spamgm
+pkg install php
