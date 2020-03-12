@@ -1,2 +1,4 @@
 # spamgm
-pkg install php
+pkg install php<br>
+cd spamgm<br>
+php 
